@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+    margin: 0;
+}
+
+.box-1{
+    border: 2px;
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 30%;
+}
+
+.box-2{
+    border: 2px;
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    position: ;
+    bottom: 40%;
+    
+    /* margin-left: 210px; */
+}
+
+
+.box-3{
+    border: 2px solid;
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 300px;
+    left: 19%;
+}

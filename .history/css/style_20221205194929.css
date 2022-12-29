@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+position: relative;
+text-align: center;
+/* margin: 0 auto; */
+    /* margin: 0; */
+}
+
+
+.top-cloud{
+    height: 100px;
+    width: 150px;
+    position: absolute;
+   right: 600px;
+}
+
+.header-text{
+display: inline-block;
+}
+
+.bottom-cloud{
+    height: 100px;
+    width: 160px;
+    position: absolute;
+
+}
+
+.mountain-image{
+    height: 430px;
+    width: 400px;
+}

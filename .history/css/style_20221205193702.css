@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+    margin: 0;
+}
+
+.top-cloud{
+    height: 100px;
+    width: 150px;
+    
+}
+
+.bottom-cloud{
+    height: 100px;
+    width: 160px;
+}
+
+.mountain-image

@@ -1,0 +1,34 @@
+body{
+    background-color: lightblue;
+    /* margin: 0; */
+}
+
+.container{
+position: relative;
+text-align: center;
+
+}
+
+.top-cloud{
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    left: 40%;
+    
+}
+
+.header-text{
+ margin-top: 10%;
+}
+
+.bottom-cloud{
+    height: 100px;
+    width: 160px;
+    position: absolute;
+
+}
+
+.mountain-image{
+    height: 430px;
+    width: 400px;
+}

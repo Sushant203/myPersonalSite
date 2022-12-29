@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+}
+
+.box-1{
+    border: 10px solid black;
+    padding: 20px;
+    
+}
+.box{
+    height: 200px;
+    width: 200px;
+}

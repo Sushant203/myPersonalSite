@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+
+.box-1{
+    border: 10px solid black;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+.box-2{
+    border: 5px solid blue;
+    height: 200px;
+    width: 200px;
+    margin: 0 0 0 12px;
+}
+.box-3
+
